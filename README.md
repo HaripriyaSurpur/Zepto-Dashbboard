@@ -5,9 +5,9 @@ A professional, custom dark-theme analytics dashboard built for Zepto, featuring
 ---
 
 ### 🎥 Interactive Demonstration
-*Watch how the dashboard dynamically responds, filters, and navigates when interacting with data columns and custom UI buttons:*
+*Click the cover image below to watch the full HD video walkthrough of the interactive dashboard:*
 
-[![Zepto Dashboard Demo Preview](https://via.placeholder.com/800x450.png?text=Click+To+Watch+Zepto+Dashboard+Demo)](https://github.com/HaripriyaSurpur/Zepto-Dashhbboard/blob/main/Zepto%20Dashboard%20Demonstration.mp4)
+[![Zepto Dashboard Cover Preview](Resources/Blacklogo.jpeg)](https://github.com/HaripriyaSurpur/Zepto-Dashhbboard/blob/main/Zepto%20Dashboard%20Demonstration.mp4)
 
 ---
 
@@ -24,5 +24,6 @@ A professional, custom dark-theme analytics dashboard built for Zepto, featuring
 📦 Zepto-Dashhbboard
 │
 ├── 🎬 Zepto Dashboard Demonstration.mp4  # Live video walkthrough of dashboard interactions
+├── 📁 Resources/Blacklogo.jpeg           # Dashboard logo and cover preview
 ├── 📄 LICENSE                            # Copyright and intellectual property protection
 └── 📝 README.md                          # Project documentation and showcase
