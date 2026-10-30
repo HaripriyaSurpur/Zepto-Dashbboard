@@ -7,12 +7,10 @@ A professional, custom dark-theme analytics dashboard built for Zepto, featuring
 ### 🎥 Interactive Demonstration
 *Watch how the dashboard dynamically responds, filters, and navigates when interacting with data columns and custom UI buttons:*
 
-<p align="center">
-  <video width="100%" autoplay loop muted playsinline>
-    <source src="Zepto Dashboard Demonstration.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+### 🎥 Interactive Demonstration
+*Click the image below to watch the full HD video walkthrough of the interactive dashboard:*
+
+[![Zepto Dashboard Demo Preview](screenshots/your-screenshot-filename.png)](Zepto%20Dashboard%20Demonstration.mp4)
 
 ---
 
